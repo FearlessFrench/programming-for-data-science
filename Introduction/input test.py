@@ -1,0 +1,5 @@
+inp1=input("input integer number : ")
+no1=int(inp1)
+inp2=input("input float number : ")
+no2=float(inp2)
+print("result is = ", no1+no2)
